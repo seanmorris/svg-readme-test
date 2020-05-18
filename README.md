@@ -1,1 +1,1 @@
-![svg-test](/svg-readme-test/blob/master/html.svg)
+![svg-test](https://raw.githubusercontent.com/seanmorris/svg-readme-test/master/html.svg)
