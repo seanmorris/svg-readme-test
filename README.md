@@ -1,0 +1,1 @@
+![svg-test](/svg-readme-test/blob/master/html.svg)
